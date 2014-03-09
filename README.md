@@ -1,6 +1,8 @@
 # gb
 
-Git robot, a tool to operate on Github. It's still under heavy development now.
+Git robot, a tool to operate on Github. It's still under heavy development now.  
+
+[![NPM](https://nodei.co/npm/gb.png)](https://nodei.co/npm/gb/)
 
 
 ## Install
