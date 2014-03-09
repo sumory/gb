@@ -1,0 +1,21 @@
+{
+  "name": "gb",
+  "version": "0.0.2",
+  "description": "git robot, a tool to operate projects on Github",
+  "main": "index.js",
+  "author": {
+    "name": "sumory.wu",
+    "email": "sumory.wu@gmail.com"
+  },
+  "bin": {
+    "gb": "./index.js"
+  },
+  "repository": "https://github.com/sumory/gb",
+  "license": "MIT",
+  "dependencies": {
+    "beauty":"*",
+    "commander": "^2.1.0",
+    "prompt": "~0.2.12",
+    "octonode":"*"
+  }
+}
