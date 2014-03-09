@@ -1,6 +1,6 @@
 {
   "name": "gb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "git robot, a tool to operate projects on Github",
   "main": "index.js",
   "author": {
@@ -13,9 +13,9 @@
   "repository": "https://github.com/sumory/gb",
   "license": "MIT",
   "dependencies": {
-    "beauty":"*",
+    "beauty": "0.0.4",
     "commander": "^2.1.0",
     "prompt": "~0.2.12",
-    "octonode":"*"
+    "octonode": "*"
   }
 }
